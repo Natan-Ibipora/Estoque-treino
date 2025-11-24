@@ -22,7 +22,7 @@ app.get("/hello",(req,res)=>{
 ```
 ### Lista tarefas :
 - [x] Estrutura de pastas
-- [] Todas as rotas
+- [ ] Todas as rotas
 - [X] Conexão com o banco
 
 ### Links 
