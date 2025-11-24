@@ -20,6 +20,11 @@ app.get("/hello",(req,res)=>{
 
  });
 ```
+### Lista tarefas :
+- [x] Estrutura de pastas
+- [] Todas as rotas
+- [X] Conexão com o banco
+
 ### Links 
 * Link documentação Express:[https://expressjs.com/en/starter/basic-routing.html](https://expressjs.com/en/starter/basic-routing.html)
 * Link documentação Sequelize:[https://sequelize.org/docs/v6/getting-started/](https://sequelize.org/docs/v6/getting-started/)
