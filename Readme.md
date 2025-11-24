@@ -12,7 +12,12 @@
 1. Express ![]()
 2. Sequelize para o banco de dados
 3. Mysql2 para o driver do banco de dados
-
+### Exemplo de rota :
+```
+app.get("/hello",(req,res)=>{
+   return res.status(200).json({'message':'HELLO WORLD'})
+ });
+```
 ### Links 
 * Link documentação Express:[https://expressjs.com/en/starter/basic-routing.html](https://expressjs.com/en/starter/basic-routing.html)
 * Link documentação Sequelize:[https://sequelize.org/docs/v6/getting-started/](https://sequelize.org/docs/v6/getting-started/)
