@@ -14,6 +14,6 @@
 3. Mysql2 para o driver do banco de dados
 
 #### Imagens
-[Logo do Js](./src/img/jsImg.png) 
-[Logo do mysql](./src/img/mysql.png) 
-[Logo do node](./src/img/Node.js_logo.svg.png)
+![Logo do Js](./src/img/jsImg.png) 
+![Logo do mysql](./src/img/mysql.png) 
+![Logo do node](./src/img/Node.js_logo.svg.png)
