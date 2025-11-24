@@ -1,9 +1,14 @@
-# Sistema de **estoque**  - _treino_
+# Sistema de estoque - treino
 # --------------------------------------------------
 ### Funcionalidades :
 **Movimentar, cadastrar e controlar estoque**
+### Tecnologias do projeto :
+* **Javascript**
+* **Banco de dados MySQL**
+* **Node js**
+* **insomnia ( para testar APIs)**
 
-### Pacotes instalados
-1- express
-2- sequelize para o banco de dados
-3- mysql2 para o driver do banco de dados
+### Pacotes instalados  :
+1. Express
+2. Sequelize para o banco de dados
+3. Mysql2 para o driver do banco de dados
