@@ -15,7 +15,9 @@
 ### Exemplo de rota :
 ```
 app.get("/hello",(req,res)=>{
-   return res.status(200).json({'message':'HELLO WORLD'})
+
+   return res.status(200).json({'message':'HELLO WORLD'})/
+
  });
 ```
 ### Links 
